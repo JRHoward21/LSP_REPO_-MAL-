@@ -1,0 +1,36 @@
+Factory Pattern Overview
+
+Factory Method Design Pattern - Refactoring Guru
+Explains the Factory Method pattern in detail, including its purpose and implementation.
+Singleton Pattern
+
+Singleton Design Pattern - Refactoring Guru
+Comprehensive resource on the Singleton Pattern and its usage.
+Effective Java by Joshua Bloch
+Authoritative guide on Java programming, including design patterns and best practices.
+Java Interfaces and Polymorphism
+
+Oracle's Java Tutorials - Interfaces
+Discusses Java interfaces and how to use them effectively for polymorphism.
+SOLID Principles
+
+SOLID Design Principles - Stackify Blog
+Explains the five SOLID principles, including the Open/Closed Principle (OCP) applied in this refactor.
+Unit Testing with JUnit
+
+JUnit 5 User Guide
+Official documentation for writing and running tests using JUnit 5.
+Pragmatic Unit Testing in Java 8 by Jeff Langr
+Book on practical approaches to unit testing in Java. (No online link, but widely available in bookstores and libraries.)
+General Java Design and Patterns
+
+Head First Design Patterns by Eric Freeman
+A beginner-friendly book on design patterns and their practical applications. (No free online copy; available for purchase.)
+Clean Code by Robert C. Martin
+A must-read on writing maintainable and refactor-friendly code.
+Using Eclipse IDE
+
+Eclipse Documentation
+Official guide to using Eclipse for Java projects, including setup and testing.
+Setting Up JUnit in Eclipse - Vogella
+A helpful guide on setting up and using JUnit within Eclipse.
